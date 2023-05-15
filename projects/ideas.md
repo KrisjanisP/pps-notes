@@ -7,3 +7,4 @@
   * [Qt SCXML Sudoku Example](https://doc.qt.io/qtforpython/overviews/qtscxml-sudoku-example.html)
 * SS.lv mašīnu cenu vizualizāciju + ML ( PySide )
   * [Qt data visualization](https://doc.qt.io/qtforpython/tutorials/datavisualize/index.html)
+* Inverse kinematics ( 2D roka ar sarkanu mērķi )
